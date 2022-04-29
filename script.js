@@ -1,1 +1,1 @@
-document.getElementsByClassName('jw-video jw-reset')[0].currentSrc;
+window.location.replace(document.getElementsByClassName('jw-video jw-reset')[0].currentSrc);
