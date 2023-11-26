@@ -1,5 +1,6 @@
- Simply put this command into the console while preview is paused
+document.getElementsByClassName('ad-leaderboard-alt-wrapper')[0].remove()
+document.getElementsByClassName('ad-rectangle-wrapper')[0].remove()
+document.getElementsByClassName('cell large-4')[0].remove()
+document.getElementById('frame').href = document.getElementsByClassName('vjs-tech')[0].currentSrc;
 
-    window.location.replace(document.getElementsByClassName('jw-video jw-reset')[0].currentSrc);
-
-Then you can download the video by pressing the three dots at the bottom-right.
+click "Stáhnout soubor" to play or download for FREE
